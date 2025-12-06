@@ -2,13 +2,13 @@
 Hi there, I'm Muhammed Ali Yıldırım! 
 👋<br><br>I am a 19-year-old **Physics Engineering student** at **Ankara University** (English program). I am passionate about combining engineering and technology to create creative projects, with a specific focus on developing educational games for young and adult.
 <br><br>### 🚀 Skills & Technologies<br><br>* 
-**Game Development:** Unity, C# (Advanced) [cite: 14]<br>* 
-**Programming Languages:** Java, Python, C++ (Intermediate), Assembly, Binary (Beginner) [cite: 20, 21]<br>* 
-[cite_start]**Design & 3D:** Blender (3D Model Design), Aseprite, Photoshop, Canva [cite: 15, 17]<br>* 
-[cite_start]**Robotics & Audio:** Arduino, FL Studio [cite: 16, 18]
+**Game Development:** Unity, C# (Advanced) 
+**Programming Languages:** Java, Python, C++ (Intermediate), Assembly, Binary (Beginner) 
+**Design & 3D:** Blender (3D Model Design), Aseprite, Photoshop, Canva 
+**Robotics & Audio:** Arduino, FL Studio 
 <br><br>### 💻 Featured Projects<br><br>* 
-[cite_start]**Symbo (2025):** A team-developed game designed to help with children's cognitive development (Unity/Software role)[cite: 25].<br>* 
-[cite_start]**Gedex (2025):** A project within the Ministry of National Education (MEB) to develop primary school students' skills (Unity role)[cite: 26].<br>* 
+**Symbo (2025):** A team-developed game designed to help with children's cognitive development (Unity/Software role)
+**Gedex (2025):** A project within the Ministry of National Education (MEB) to develop primary school students' skills (Unity role)
 [cite_start]**Leviath (In Progress):** An upcoming open-world game, estimated for release in 2026[cite: 27].<br>* 
 [cite_start]**Casus (2021):** A social guessing game for friends developed in Unity[cite: 24].<br>* 
 [cite_start]**Lugat (2020):** An application for researching word etymologies built on .Net C#[cite: 23].
