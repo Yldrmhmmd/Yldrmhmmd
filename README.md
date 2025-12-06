@@ -5,7 +5,7 @@ Hi there, I'm Muhammed Ali Yıldırım!
 **Game Development:** Unity, C# (Advanced).<br>*
 **Programming Languages:** Java, Python, C++ (Intermediate), Assembly, Binary (Beginner).<br>*
 **Design & 3D:** Blender (3D Model Design), Aseprite, Photoshop, Canva.<br>*
-**Robotics & Audio:** Arduino, FL Studio <br>*
+**Robotics & Audio:** Arduino, FL Studio.
 <br><br>### 💻 Featured Projects<br><br>* 
 **Symbo (2025):** A team-developed game designed to help with children's cognitive development (Unity/Software role).<br>*
 **Gedex (2025):** A project within the Ministry of National Education (MEB) to develop primary school students' skills (Unity role).<br>*
