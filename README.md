@@ -2,19 +2,19 @@
 Hi there, I'm Muhammed Ali Yıldırım! 
 👋<br><br>I am a 19-year-old **Physics Engineering student** at **Ankara University** (English program). I am passionate about combining engineering and technology to create creative projects, with a specific focus on developing educational games for young and adult.
 <br><br>### 🚀 Skills & Technologies<br><br>* 
-**Game Development:** Unity, C# (Advanced) 
-**Programming Languages:** Java, Python, C++ (Intermediate), Assembly, Binary (Beginner) 
-**Design & 3D:** Blender (3D Model Design), Aseprite, Photoshop, Canva 
-**Robotics & Audio:** Arduino, FL Studio 
+**Game Development:** Unity, C# (Advanced).<br>*
+**Programming Languages:** Java, Python, C++ (Intermediate), Assembly, Binary (Beginner).<br>*
+**Design & 3D:** Blender (3D Model Design), Aseprite, Photoshop, Canva.<br>*
+**Robotics & Audio:** Arduino, FL Studio <br>*
 <br><br>### 💻 Featured Projects<br><br>* 
-**Symbo (2025):** A team-developed game designed to help with children's cognitive development (Unity/Software role)
-**Gedex (2025):** A project within the Ministry of National Education (MEB) to develop primary school students' skills (Unity role)
-[cite_start]**Leviath (In Progress):** An upcoming open-world game, estimated for release in 2026[cite: 27].<br>* 
-[cite_start]**Casus (2021):** A social guessing game for friends developed in Unity[cite: 24].<br>* 
-[cite_start]**Lugat (2020):** An application for researching word etymologies built on .Net C#[cite: 23].
+**Symbo (2025):** A team-developed game designed to help with children's cognitive development (Unity/Software role).<br>*
+**Gedex (2025):** A project within the Ministry of National Education (MEB) to develop primary school students' skills (Unity role).<br>*
+**Leviath (In Progress):** An upcoming open-world game, estimated for release in 2026.<br>* 
+**Casus (2021):** A social guessing game for friends developed in Unity.<br>* 
+**Lugat (2020):** An application for researching word etymologies built on .Net C#.
 <br><br>### 🌟 Experience & Activities<br><br>* 
-[cite_start]**Instructor (2024-2025):** Taught Unity, Canva, and Scratch to primary and middle school students at CodeStudy[cite: 12].<br>* 
-[cite_start]**Active Participation:** Involved in TÜBİTAK, Teknofest, and Erasmus+ projects[cite: 5].
+**Instructor (2024-2025):** Taught Unity, Canva, and Scratch to primary and middle school students at CodeStudy.<br>* 
+**Active Participation:** Involved in TÜBİTAK, Teknofest, and Erasmus+ projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yldrmhmmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yldrmhmmd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yldrmhmmd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memocerg@gmail.com) 
